@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>EmployeeApp</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeeApp.Domain\EmployeeApp.Domain.csproj" />
+    <ProjectReference Include="..\EmployeeApp.Application.Contracts\EmployeeApp.Application.Contracts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
+    <PackageReference Include="Volo.Abp.Account.Application" Version="8.1.0" />
+    <PackageReference Include="Volo.Abp.Identity.Application" Version="8.1.0" />
+    <PackageReference Include="Volo.Abp.PermissionManagement.Application" Version="8.1.0" />
+    <PackageReference Include="Volo.Abp.TenantManagement.Application" Version="8.1.0" />
+    <PackageReference Include="Volo.Abp.FeatureManagement.Application" Version="8.1.0" />
+    <PackageReference Include="Volo.Abp.SettingManagement.Application" Version="8.1.0" />
+  </ItemGroup>
+
+</Project>
