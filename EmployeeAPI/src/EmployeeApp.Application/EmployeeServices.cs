@@ -23,34 +23,19 @@ namespace EmployeeApp
 
         // Overriding GetListAsync to apply custom filtering
         public override async Task<PagedResultDto<EmployeeDto>> GetListAsync(EmployeeFilterDto input)
+        
         {
             var query = await Repository.GetQueryableAsync();
 
+
+
             // Apply filters
-            if (!string.IsNullOrWhiteSpace(input.NameFilter))
-            {
-                query = query.Where(e => e.Name.Contains(input.NameFilter));
-            }
+            query = query.WhereIf(!input.NameFilter.IsNullOrWhiteSpace(), e => e.Name.Contains(input.NameFilter))
+                .WhereIf(!input.EmailFilter.IsNullOrWhiteSpace(), e => e.Email.Contains(input.EmailFilter))
+                .WhereIf(!input.PositionFilter.IsNullOrWhiteSpace(), e => e.Position.Contains(input.PositionFilter))
+                .WhereIf(input.MinSalaryFilter.HasValue, e => e.Salary >= input.MinSalaryFilter.Value)
+                .WhereIf(input.MaxSalaryFilter.HasValue, e => e.Salary <= input.MaxSalaryFilter.Value); 
 
-            if (!string.IsNullOrWhiteSpace(input.EmailFilter))
-            {
-                query = query.Where(e => e.Email.Contains(input.EmailFilter));
-            }
-
-            if (!string.IsNullOrWhiteSpace(input.PositionFilter))
-            {
-                query = query.Where(e => e.Position.Contains(input.PositionFilter));
-            }
-
-            if (input.MinSalaryFilter.HasValue)
-            {
-                query = query.Where(e => e.Salary >= input.MinSalaryFilter.Value);
-            }
-
-            if (input.MaxSalaryFilter.HasValue)
-            {
-                query = query.Where(e => e.Salary <= input.MaxSalaryFilter.Value);
-            }
 
             // Apply sorting
             if (!string.IsNullOrWhiteSpace(input.Sorting))
