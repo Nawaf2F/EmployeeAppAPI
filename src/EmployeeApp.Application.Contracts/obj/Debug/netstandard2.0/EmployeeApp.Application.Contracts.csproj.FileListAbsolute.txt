@@ -1,0 +1,14 @@
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\bin\Debug\netstandard2.0\EmployeeApp.Application.Contracts.deps.json
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\bin\Debug\netstandard2.0\EmployeeApp.Application.Contracts.dll
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\bin\Debug\netstandard2.0\EmployeeApp.Application.Contracts.pdb
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\bin\Debug\netstandard2.0\EmployeeApp.Domain.Shared.dll
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\bin\Debug\netstandard2.0\EmployeeApp.Domain.Shared.pdb
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\obj\Debug\netstandard2.0\EmployeeApp.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\obj\Debug\netstandard2.0\EmployeeApp.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\obj\Debug\netstandard2.0\EmployeeApp.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\obj\Debug\netstandard2.0\EmployeeApp.Application.Contracts.AssemblyInfo.cs
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\obj\Debug\netstandard2.0\EmployeeApp.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\obj\Debug\netstandard2.0\Employee.48495B74.Up2Date
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\obj\Debug\netstandard2.0\EmployeeApp.Application.Contracts.dll
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\obj\Debug\netstandard2.0\EmployeeApp.Application.Contracts.pdb
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Application.Contracts\obj\Debug\netstandard2.0\EmployeeApp.Application.Contracts.sourcelink.json

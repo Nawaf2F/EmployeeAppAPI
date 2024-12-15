@@ -30,6 +30,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore">
       <Version>8.0.4</Version>
     </PackageReference>
+    <PackageReference Include="Volo.Abp.AspNetCore.MultiTenancy">
+      <Version>8.1.5</Version>
+    </PackageReference>
   </ItemGroup>
 
 </Project>

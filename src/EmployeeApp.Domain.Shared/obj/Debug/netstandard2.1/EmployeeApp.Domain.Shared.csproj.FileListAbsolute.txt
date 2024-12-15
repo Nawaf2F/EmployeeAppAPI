@@ -1,0 +1,12 @@
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\bin\Debug\netstandard2.1\EmployeeApp.Domain.Shared.deps.json
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\bin\Debug\netstandard2.1\EmployeeApp.Domain.Shared.dll
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\bin\Debug\netstandard2.1\EmployeeApp.Domain.Shared.pdb
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\obj\Debug\netstandard2.1\EmployeeApp.Domain.Shared.csproj.AssemblyReference.cache
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\obj\Debug\netstandard2.1\EmployeeApp.Domain.Shared.EmbeddedFilesManifest.cache
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\obj\Debug\netstandard2.1\EmployeeApp.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\obj\Debug\netstandard2.1\EmployeeApp.Domain.Shared.AssemblyInfoInputs.cache
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\obj\Debug\netstandard2.1\EmployeeApp.Domain.Shared.AssemblyInfo.cs
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\obj\Debug\netstandard2.1\EmployeeApp.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\obj\Debug\netstandard2.1\EmployeeApp.Domain.Shared.dll
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\obj\Debug\netstandard2.1\EmployeeApp.Domain.Shared.pdb
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain.Shared\obj\Debug\netstandard2.1\EmployeeApp.Domain.Shared.sourcelink.json

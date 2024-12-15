@@ -1,0 +1,16 @@
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\bin\Debug\net8.0\EmployeeApp.Domain.deps.json
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\bin\Debug\net8.0\EmployeeApp.Domain.dll
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\bin\Debug\net8.0\EmployeeApp.Domain.pdb
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\bin\Debug\net8.0\EmployeeApp.Domain.Shared.dll
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\bin\Debug\net8.0\EmployeeApp.Domain.Shared.pdb
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.csproj.AssemblyReference.cache
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.AssemblyInfoInputs.cache
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.AssemblyInfo.cs
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\obj\Debug\net8.0\Employee.9C6EC85D.Up2Date
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.dll
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\obj\Debug\net8.0\refint\EmployeeApp.Domain.dll
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.pdb
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\obj\Debug\net8.0\ref\EmployeeApp.Domain.dll
+C:\Users\nawaf_zfuo4i8\OneDrive\سطح المكتب\Employee_Table\aspnet-core\src\EmployeeApp.Domain\obj\Debug\net8.0\EmployeeApp.Domain.sourcelink.json

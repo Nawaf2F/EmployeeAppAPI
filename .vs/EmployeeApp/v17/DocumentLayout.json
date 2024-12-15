@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A94A50E-06DC-43C1-80B5-B662820EC3EB}|src\\EmployeeApp.Application\\EmployeeApp.Application.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.application\\employeeappapplicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A94A50E-06DC-43C1-80B5-B662820EC3EB}|src\\EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:src\\employeeapp.application\\employeeappapplicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A94A50E-06DC-43C1-80B5-B662820EC3EB}|src\\EmployeeApp.Application\\EmployeeApp.Application.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.application\\employeeappapplicationautomapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A94A50E-06DC-43C1-80B5-B662820EC3EB}|src\\EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:src\\employeeapp.application\\employeeappapplicationautomapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748584B1-BA69-4F6A-81AA-F4BDE6BCE29D}|src\\EmployeeApp.HttpApi.Host\\EmployeeApp.HttpApi.Host.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.httpapi.host\\employeeapphttpapihostmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748584B1-BA69-4F6A-81AA-F4BDE6BCE29D}|src\\EmployeeApp.HttpApi.Host\\EmployeeApp.HttpApi.Host.csproj|solutionrelative:src\\employeeapp.httpapi.host\\employeeapphttpapihostmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A94A50E-06DC-43C1-80B5-B662820EC3EB}|src\\EmployeeApp.Application\\EmployeeApp.Application.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.application\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A94A50E-06DC-43C1-80B5-B662820EC3EB}|src\\EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:src\\employeeapp.application\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE30EB9-74A9-47F5-A9F6-7B1FAB672D81}|test\\EmployeeApp.EntityFrameworkCore.Tests\\EmployeeApp.EntityFrameworkCore.Tests.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\test\\employeeapp.entityframeworkcore.tests\\entityframeworkcore\\employeeappentityframeworkcoretestmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE30EB9-74A9-47F5-A9F6-7B1FAB672D81}|test\\EmployeeApp.EntityFrameworkCore.Tests\\EmployeeApp.EntityFrameworkCore.Tests.csproj|solutionrelative:test\\employeeapp.entityframeworkcore.tests\\entityframeworkcore\\employeeappentityframeworkcoretestmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE30EB9-74A9-47F5-A9F6-7B1FAB672D81}|test\\EmployeeApp.EntityFrameworkCore.Tests\\EmployeeApp.EntityFrameworkCore.Tests.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\test\\employeeapp.entityframeworkcore.tests\\entityframeworkcore\\employeeappentityframeworkcoretestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE30EB9-74A9-47F5-A9F6-7B1FAB672D81}|test\\EmployeeApp.EntityFrameworkCore.Tests\\EmployeeApp.EntityFrameworkCore.Tests.csproj|solutionrelative:test\\employeeapp.entityframeworkcore.tests\\entityframeworkcore\\employeeappentityframeworkcoretestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE30EB9-74A9-47F5-A9F6-7B1FAB672D81}|test\\EmployeeApp.EntityFrameworkCore.Tests\\EmployeeApp.EntityFrameworkCore.Tests.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\test\\employeeapp.entityframeworkcore.tests\\entityframeworkcore\\employeeappentityframeworkcorefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE30EB9-74A9-47F5-A9F6-7B1FAB672D81}|test\\EmployeeApp.EntityFrameworkCore.Tests\\EmployeeApp.EntityFrameworkCore.Tests.csproj|solutionrelative:test\\employeeapp.entityframeworkcore.tests\\entityframeworkcore\\employeeappentityframeworkcorefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE30EB9-74A9-47F5-A9F6-7B1FAB672D81}|test\\EmployeeApp.EntityFrameworkCore.Tests\\EmployeeApp.EntityFrameworkCore.Tests.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\test\\employeeapp.entityframeworkcore.tests\\entityframeworkcore\\employeeappentityframeworkcorecollectionfixturebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE30EB9-74A9-47F5-A9F6-7B1FAB672D81}|test\\EmployeeApp.EntityFrameworkCore.Tests\\EmployeeApp.EntityFrameworkCore.Tests.csproj|solutionrelative:test\\employeeapp.entityframeworkcore.tests\\entityframeworkcore\\employeeappentityframeworkcorecollectionfixturebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C956DD76-69C8-4A9C-83EA-D17DF83340FD}|src\\EmployeeApp.EntityFrameworkCore\\EmployeeApp.EntityFrameworkCore.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.entityframeworkcore\\migrations\\20240411233910_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C956DD76-69C8-4A9C-83EA-D17DF83340FD}|src\\EmployeeApp.EntityFrameworkCore\\EmployeeApp.EntityFrameworkCore.csproj|solutionrelative:src\\employeeapp.entityframeworkcore\\migrations\\20240411233910_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C956DD76-69C8-4A9C-83EA-D17DF83340FD}|src\\EmployeeApp.EntityFrameworkCore\\EmployeeApp.EntityFrameworkCore.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.entityframeworkcore\\entityframeworkcore\\employeeappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C956DD76-69C8-4A9C-83EA-D17DF83340FD}|src\\EmployeeApp.EntityFrameworkCore\\EmployeeApp.EntityFrameworkCore.csproj|solutionrelative:src\\employeeapp.entityframeworkcore\\entityframeworkcore\\employeeappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554AD327-6DBA-4F8F-96F8-81CE7A0C863F}|src\\EmployeeApp.Domain\\EmployeeApp.Domain.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554AD327-6DBA-4F8F-96F8-81CE7A0C863F}|src\\EmployeeApp.Domain\\EmployeeApp.Domain.csproj|solutionrelative:src\\employeeapp.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520659C8-C734-4298-A3DA-B539DB9DFC0B}|src\\EmployeeApp.Application.Contracts\\EmployeeApp.Application.Contracts.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.application.contracts\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520659C8-C734-4298-A3DA-B539DB9DFC0B}|src\\EmployeeApp.Application.Contracts\\EmployeeApp.Application.Contracts.csproj|solutionrelative:src\\employeeapp.application.contracts\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520659C8-C734-4298-A3DA-B539DB9DFC0B}|src\\EmployeeApp.Application.Contracts\\EmployeeApp.Application.Contracts.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.application.contracts\\employeefilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520659C8-C734-4298-A3DA-B539DB9DFC0B}|src\\EmployeeApp.Application.Contracts\\EmployeeApp.Application.Contracts.csproj|solutionrelative:src\\employeeapp.application.contracts\\employeefilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520659C8-C734-4298-A3DA-B539DB9DFC0B}|src\\EmployeeApp.Application.Contracts\\EmployeeApp.Application.Contracts.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.application.contracts\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520659C8-C734-4298-A3DA-B539DB9DFC0B}|src\\EmployeeApp.Application.Contracts\\EmployeeApp.Application.Contracts.csproj|solutionrelative:src\\employeeapp.application.contracts\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520659C8-C734-4298-A3DA-B539DB9DFC0B}|src\\EmployeeApp.Application.Contracts\\EmployeeApp.Application.Contracts.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.application.contracts\\createupdateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520659C8-C734-4298-A3DA-B539DB9DFC0B}|src\\EmployeeApp.Application.Contracts\\EmployeeApp.Application.Contracts.csproj|solutionrelative:src\\employeeapp.application.contracts\\createupdateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A94A50E-06DC-43C1-80B5-B662820EC3EB}|src\\EmployeeApp.Application\\EmployeeApp.Application.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.application\\employeeapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A94A50E-06DC-43C1-80B5-B662820EC3EB}|src\\EmployeeApp.Application\\EmployeeApp.Application.csproj|solutionrelative:src\\employeeapp.application\\employeeapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748584B1-BA69-4F6A-81AA-F4BDE6BCE29D}|src\\EmployeeApp.HttpApi.Host\\EmployeeApp.HttpApi.Host.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.httpapi.host\\employeeapp.httpapi.host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{748584B1-BA69-4F6A-81AA-F4BDE6BCE29D}|src\\EmployeeApp.HttpApi.Host\\EmployeeApp.HttpApi.Host.csproj|solutionrelative:src\\employeeapp.httpapi.host\\employeeapp.httpapi.host.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C956DD76-69C8-4A9C-83EA-D17DF83340FD}|src\\EmployeeApp.EntityFrameworkCore\\EmployeeApp.EntityFrameworkCore.csproj|c:\\users\\nawaf_zfuo4i8\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\employee_table\\aspnet-core\\src\\employeeapp.entityframeworkcore\\migrations\\20240413084843_seconddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C956DD76-69C8-4A9C-83EA-D17DF83340FD}|src\\EmployeeApp.EntityFrameworkCore\\EmployeeApp.EntityFrameworkCore.csproj|solutionrelative:src\\employeeapp.entityframeworkcore\\migrations\\20240413084843_seconddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeAppApplicationModule.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application\\EmployeeAppApplicationModule.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.Application\\EmployeeAppApplicationModule.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application\\EmployeeAppApplicationModule.cs*",
+              "RelativeToolTip": "src\\EmployeeApp.Application\\EmployeeAppApplicationModule.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:45:05.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.Application\\EmployeeServices.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application\\EmployeeServices.cs",
+              "RelativeToolTip": "src\\EmployeeApp.Application\\EmployeeServices.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAApwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:25:43.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeAppEntityFrameworkCoreFixture.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreFixture.cs",
+              "RelativeDocumentMoniker": "test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreFixture.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreFixture.cs",
+              "RelativeToolTip": "test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreFixture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:30:54.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeAppApplicationAutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application\\EmployeeAppApplicationAutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.Application\\EmployeeAppApplicationAutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application\\EmployeeAppApplicationAutoMapperProfile.cs",
+              "RelativeToolTip": "src\\EmployeeApp.Application\\EmployeeAppApplicationAutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:40:05.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeAppHttpApiHostModule.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.HttpApi.Host\\EmployeeAppHttpApiHostModule.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.HttpApi.Host\\EmployeeAppHttpApiHostModule.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.HttpApi.Host\\EmployeeAppHttpApiHostModule.cs",
+              "RelativeToolTip": "src\\EmployeeApp.HttpApi.Host\\EmployeeAppHttpApiHostModule.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAQwK8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:48:01.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateUpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application.Contracts\\CreateUpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.Application.Contracts\\CreateUpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application.Contracts\\CreateUpdateEmployeeDto.cs",
+              "RelativeToolTip": "src\\EmployeeApp.Application.Contracts\\CreateUpdateEmployeeDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:29:03.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeAppEntityFrameworkCoreCollectionFixtureBase.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreCollectionFixtureBase.cs",
+              "RelativeDocumentMoniker": "test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreCollectionFixtureBase.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreCollectionFixtureBase.cs",
+              "RelativeToolTip": "test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreCollectionFixtureBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:30:53.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeAppEntityFrameworkCoreTestBase.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreTestBase.cs",
+              "RelativeDocumentMoniker": "test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreTestBase.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreTestBase.cs",
+              "RelativeToolTip": "test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreTestBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:30:58.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeAppEntityFrameworkCoreTestModule.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreTestModule.cs",
+              "RelativeDocumentMoniker": "test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreTestModule.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreTestModule.cs",
+              "RelativeToolTip": "test\\EmployeeApp.EntityFrameworkCore.Tests\\EntityFrameworkCore\\EmployeeAppEntityFrameworkCoreTestModule.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:30:59.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.EntityFrameworkCore\\EntityFrameworkCore\\EmployeeAppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.EntityFrameworkCore\\EntityFrameworkCore\\EmployeeAppDbContext.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.EntityFrameworkCore\\EntityFrameworkCore\\EmployeeAppDbContext.cs",
+              "RelativeToolTip": "src\\EmployeeApp.EntityFrameworkCore\\EntityFrameworkCore\\EmployeeAppDbContext.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwFkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T22:47:10.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240411233910_init.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.EntityFrameworkCore\\Migrations\\20240411233910_init.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.EntityFrameworkCore\\Migrations\\20240411233910_init.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.EntityFrameworkCore\\Migrations\\20240411233910_init.cs",
+              "RelativeToolTip": "src\\EmployeeApp.EntityFrameworkCore\\Migrations\\20240411233910_init.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:39:11.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240413084843_SecondDb.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.EntityFrameworkCore\\Migrations\\20240413084843_SecondDb.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.EntityFrameworkCore\\Migrations\\20240413084843_SecondDb.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.EntityFrameworkCore\\Migrations\\20240413084843_SecondDb.cs",
+              "RelativeToolTip": "src\\EmployeeApp.EntityFrameworkCore\\Migrations\\20240413084843_SecondDb.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:48:43.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application.Contracts\\EmployeeFilterDto.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.Application.Contracts\\EmployeeFilterDto.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application.Contracts\\EmployeeFilterDto.cs",
+              "RelativeToolTip": "src\\EmployeeApp.Application.Contracts\\EmployeeFilterDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:06:32.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.Domain\\Employee.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Domain\\Employee.cs",
+              "RelativeToolTip": "src\\EmployeeApp.Domain\\Employee.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T22:43:43.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application.Contracts\\IEmployeeServices.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.Application.Contracts\\IEmployeeServices.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application.Contracts\\IEmployeeServices.cs",
+              "RelativeToolTip": "src\\EmployeeApp.Application.Contracts\\IEmployeeServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:23:00.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application.Contracts\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.Application.Contracts\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application.Contracts\\EmployeeDto.cs",
+              "RelativeToolTip": "src\\EmployeeApp.Application.Contracts\\EmployeeDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:20:45.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeApp.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application\\EmployeeApp.Application.csproj",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.Application\\EmployeeApp.Application.csproj",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.Application\\EmployeeApp.Application.csproj",
+              "RelativeToolTip": "src\\EmployeeApp.Application\\EmployeeApp.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T04:25:03.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeApp.HttpApi.Host.csproj",
+              "DocumentMoniker": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.HttpApi.Host\\EmployeeApp.HttpApi.Host.csproj",
+              "RelativeDocumentMoniker": "src\\EmployeeApp.HttpApi.Host\\EmployeeApp.HttpApi.Host.csproj",
+              "ToolTip": "C:\\Users\\nawaf_zfuo4i8\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Employee_Table\\aspnet-core\\src\\EmployeeApp.HttpApi.Host\\EmployeeApp.HttpApi.Host.csproj",
+              "RelativeToolTip": "src\\EmployeeApp.HttpApi.Host\\EmployeeApp.HttpApi.Host.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T06:54:41.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
